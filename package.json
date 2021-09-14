@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "start:one": "cd ./omicron-one/ && set PORT=3001 && npm run start",
+    "start:two": "cd ./omicron-two/ && set PORT=3002 && npm run start",
+    "install:one": "cd ./omicron-one/ && npm i",
+    "install:two": "cd ./omicron-two/ && npm i"
+  },
+  "dependencies": {}
+}
