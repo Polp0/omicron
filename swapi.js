@@ -6,8 +6,6 @@ export function getCharacter(number, callback) {
     if (this.readyState == 4 && this.status == 200) {
       var result = JSON.parse(xhr.response)
       callback(result.name)
-    } else {
-      callback('error')
     }
   }
   xhr.open('GET', url, true)
