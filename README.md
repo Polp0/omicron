@@ -1,6 +1,6 @@
 # Omicron
 
-Singola repo contenente due progetti in react che condividono l'uso di matherial-theme.ts per la creazione dello stesso tema di material-ui e di swapi.js per interrogare le api pubbliche di star wars
+Singola repo contenente due progetti in react che condividono l'uso di material-theme.ts per la creazione dello stesso tema di material-ui e di swapi.js per interrogare le api pubbliche di star wars
 
 ## Versioni utilizzate
 
